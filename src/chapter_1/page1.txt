@@ -1,8 +1,7 @@
 
 
-    This is the start ıf my book
-    Page 1 will help us get started
-
-    java is cool
+    This is the start ıf my book.
+    Page 1 will help us get started.
+    java is cool!
 
     james Bond is always with us
