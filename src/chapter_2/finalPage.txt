@@ -6,4 +6,4 @@ and
 
 remote -> local
 
-pull/push
+pull/update
